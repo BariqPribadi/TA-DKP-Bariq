@@ -1,0 +1,11 @@
+c:\users\acer\documents\visual studio 2015\Projects\TA_BARIQ\TA_BARIQ\bin\Debug\TA_BARIQ.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\TA_BARIQ\TA_BARIQ\obj\Debug\TA_BARIQ.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\TA_BARIQ\TA_BARIQ\obj\Debug\TA_BARIQ.Form1.resources
+c:\users\acer\documents\visual studio 2015\Projects\TA_BARIQ\TA_BARIQ\obj\Debug\TA_BARIQ.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2015\Projects\TA_BARIQ\TA_BARIQ\obj\Debug\TA_BARIQ.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2015\Projects\TA_BARIQ\TA_BARIQ\bin\Debug\TA_BARIQ.exe
+c:\users\acer\documents\visual studio 2015\Projects\TA_BARIQ\TA_BARIQ\bin\Debug\TA_BARIQ.pdb
+c:\users\acer\documents\visual studio 2015\Projects\TA_BARIQ\TA_BARIQ\obj\Debug\TA_BARIQ.exe
+c:\users\acer\documents\visual studio 2015\Projects\TA_BARIQ\TA_BARIQ\obj\Debug\TA_BARIQ.pdb
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\TA_BARIQ\TA_BARIQ\obj\Debug\TA_BARIQ.Login.resources
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\TA_BARIQ\TA_BARIQ\obj\Debug\TA_BARIQ.Keluar.resources
